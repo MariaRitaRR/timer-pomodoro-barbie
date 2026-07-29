@@ -1,3 +1,36 @@
 Screen {
     align: center middle;
+    background: #2d1b3d;
+    layers: fundo conteudo;
+}
+Container {
+    align: center middle;
+    height: auto;
+    layer: conteudo;
+}
+Timedisplay {
+    color: #ff8fcf;
+    border: round #c77dff;
+    padding: 2 4;
+    width: auto;
+    text-style: bold;
+}
+
+#start {
+    background: #ff5fa2;
+    color: white;
+    border: round #ff5fa2;
+    margin-top: 2;
+    width: 25;
+    content-align: center middle;
+}
+#start:hover {
+    background: #ff8fcf;
+    border: round #ff8fcf;
+}
+
+Sparkle {
+    layer: fundo;
+    width: 1;
+    height: 1;
 }
