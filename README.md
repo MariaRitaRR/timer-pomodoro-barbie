@@ -4,7 +4,7 @@ Um timer Pomodoro para o terminal, com estética rosa e roxo. Feito com [Textual
 
 `✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ `
 
-<p align="center">
+<p align="left">
   <img src="image/image.png" alt="Pomodoro Barbie rodando" width="500">
 </p>
 
