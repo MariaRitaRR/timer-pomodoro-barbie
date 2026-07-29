@@ -2,9 +2,12 @@
 
 Um timer Pomodoro para o terminal, com estética rosa e roxo. Feito com [Textual](https://textual.textualize.io/).
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
 
----
+![Pomodoro Barbie rodando](image/image.png)
+
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+
 
 ## ⟡ O que ele faz
 
@@ -14,7 +17,7 @@ Um timer Pomodoro para o terminal, com estética rosa e roxo. Feito com [Textual
 - Fundo com dezenas de estrelas, corações e flores que piscam trocando de cor, cada uma no seu próprio ritmo
 - Paleta rosa e roxo, com moldura arredondada no relógio
 
----
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
 
 ## ⟡ Pré-requisitos
 
@@ -23,7 +26,7 @@ Um timer Pomodoro para o terminal, com estética rosa e roxo. Feito com [Textual
 
 Para os cantos arredondados e os símbolos aparecerem perfeitos, o ideal é usar uma **[Nerd Font](https://www.nerdfonts.com/)** no terminal (ex.: *JetBrainsMono Nerd Font*). Sem ela, funciona igual — só os cantos ficam mais retos e alguns símbolos podem virar quadradinhos.
 
----
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
 
 ## ⟡ Como baixar
 
@@ -34,7 +37,7 @@ git clone <https://github.com/MariaRitaRR/timer-pomodoro-barbie>
 cd timer-pomodoro-barbie
 ```
 
----
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
 
 ## ⟡ Como rodar no Windows
 
@@ -72,9 +75,9 @@ pip install textual
 python pomodoro.py
 ```
 
-> 💡 Se o comando `textual` não for reconhecido depois, não tem problema — usar `python pomodoro.py` funciona igual.
+> Se o comando `textual` não for reconhecido depois, não tem problema — usar `python pomodoro.py` funciona igual.
 
----
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
 
 ## ⟡ Como rodar no Linux
 
@@ -106,7 +109,7 @@ pip install textual
 python pomodoro.py
 ```
 
----
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
 
 ## ⟡ Como usar
 
@@ -115,7 +118,7 @@ python pomodoro.py
 - Quando chegar a 00:00, o timer volta automaticamente para 25:00
 - Para sair, pressione **Ctrl + Q**
 
----
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
 
 ## ⟡ Personalização
 
@@ -131,13 +134,13 @@ Tudo é fácil de mexer:
 | Cores do fundo, relógio e botão | `pomodoro.tcss` |
 | Velocidade do piscar | `random.uniform(0.3, 1.2)` na classe `Sparkle` |
 
----
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
 
 ## ⟡ Feito com
 
 - [Python](https://www.python.org/)
 - [Textual](https://textual.textualize.io/) — framework de interfaces para terminal
 
----
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
 
 `˚ ⋆ ｡ ˚ ♡ feito com carinho para o cyberdeck ♡ ˚ ｡ ⋆ ˚`
