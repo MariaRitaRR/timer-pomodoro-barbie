@@ -1,13 +1,23 @@
-# ⋆｡˚ Pomodoro Barbie ˚｡⋆
+<div align="center">
 
-Um timer Pomodoro para o terminal, com estética rosa e roxo. Feito com [Textual](https://textual.textualize.io/).
+# 🎀 Pomodoro Barbie 🎀
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+**Um timer Pomodoro para o terminal, com estética rosa e roxo**
 
-![Pomodoro Barbie rodando](image/image.png)
+![Status](https://img.shields.io/badge/status-completo-ff69b4)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-ff1493)
+![Python](https://img.shields.io/badge/python-3.8+-ff8fcf)
+![Textual](https://img.shields.io/badge/feito%20com-Textual-c77dff)
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+</div>
 
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
+
+<p align="left">
+  <img src="image/image.png" alt="Pomodoro Barbie rodando" width="500">
+</p>
+
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
 
 ## ⟡ O que ele faz
 
@@ -17,7 +27,7 @@ Um timer Pomodoro para o terminal, com estética rosa e roxo. Feito com [Textual
 - Fundo com dezenas de estrelas, corações e flores que piscam trocando de cor, cada uma no seu próprio ritmo
 - Paleta rosa e roxo, com moldura arredondada no relógio
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
 
 ## ⟡ Pré-requisitos
 
@@ -26,18 +36,18 @@ Um timer Pomodoro para o terminal, com estética rosa e roxo. Feito com [Textual
 
 Para os cantos arredondados e os símbolos aparecerem perfeitos, o ideal é usar uma **[Nerd Font](https://www.nerdfonts.com/)** no terminal (ex.: *JetBrainsMono Nerd Font*). Sem ela, funciona igual — só os cantos ficam mais retos e alguns símbolos podem virar quadradinhos.
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
 
 ## ⟡ Como baixar
 
 Clone o repositório (ou baixe os arquivos `pomodoro.py` e `pomodoro.tcss` para a mesma pasta):
 
 ```bash
-git clone <https://github.com/MariaRitaRR/timer-pomodoro-barbie>
+git clone https://github.com/MariaRitaRR/timer-pomodoro-barbie
 cd timer-pomodoro-barbie
 ```
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
 
 ## ⟡ Como rodar no Windows
 
@@ -77,7 +87,7 @@ python pomodoro.py
 
 > Se o comando `textual` não for reconhecido depois, não tem problema — usar `python pomodoro.py` funciona igual.
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
 
 ## ⟡ Como rodar no Linux
 
@@ -109,7 +119,7 @@ pip install textual
 python pomodoro.py
 ```
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
 
 ## ⟡ Como usar
 
@@ -118,7 +128,7 @@ python pomodoro.py
 - Quando chegar a 00:00, o timer volta automaticamente para 25:00
 - Para sair, pressione **Ctrl + Q**
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
 
 ## ⟡ Personalização
 
@@ -134,13 +144,17 @@ Tudo é fácil de mexer:
 | Cores do fundo, relógio e botão | `pomodoro.tcss` |
 | Velocidade do piscar | `random.uniform(0.3, 1.2)` na classe `Sparkle` |
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
 
 ## ⟡ Feito com
 
 - [Python](https://www.python.org/)
 - [Textual](https://textual.textualize.io/) — framework de interfaces para terminal
 
-`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧`
+`✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚ ♡ ˚ ⋆ ✧ ⋆ ˚`
+
+<div align="center">
 
 `˚ ⋆ ｡ ˚ ♡ feito com carinho para o cyberdeck ♡ ˚ ｡ ⋆ ˚`
+
+</div>
